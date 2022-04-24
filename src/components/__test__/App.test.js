@@ -8,8 +8,4 @@ it("Test App Component", () => {
   expect(div.textContent).toEqual("App Component");
 
   ReactDom.unmountComponentAtNode(div);
-  dasad
-  dasdsa
-  dasds
-  das
 });
